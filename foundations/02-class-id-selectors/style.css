@@ -1,0 +1,22 @@
+/** For .odds, could also have used a p as a selector. 
+(assuming code is not updated with more in the future ) 
+*/
+.odds {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color: rgb(0, 0, 150);
+    font-size: 36px;
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: rgb(125, 255, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
